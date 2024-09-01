@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesApp(Sqlite)</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">Title</string>
+    <string name="enter_your_note">Enter your note</string>
+    <string name="notes">Notes</string>
+    <string name="titlerv">Title\t\t</string>
+    <string name="content">Content</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
